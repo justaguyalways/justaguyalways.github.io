@@ -7,11 +7,9 @@ title: About Me
 order: 5
 ---
 
-<!-- ### **Education** ###
-1. B.Tech. in Electrical Engineering (2020 - 2024)<br/>
-Indian Institute of Technology Bombay (Mumbai, India) -->
-
 ![my photo](images/profile_pic.jpeg){:height="250px"}
+
+[GitHub](https://github.com/justaguyalways) / [LinkedIn](https://www.linkedin.com/in/a-s-poornash-4973a2240/) / [Google Scholar](https://scholar.google.co.in/citations?user=clThLIwAAAAJ&hl=en) / [Email](poornash_2101cs01@iitp.ac.in)
 
 _Welcome to my homepage._     
 
