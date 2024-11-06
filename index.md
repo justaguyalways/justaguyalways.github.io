@@ -9,7 +9,7 @@ order: 5
 
 ![my photo](images/profile_pic.jpeg){:height="250px"}
 
-[GitHub](https://github.com/justaguyalways) / [LinkedIn](https://www.linkedin.com/in/a-s-poornash-4973a2240/) / [Google Scholar](https://scholar.google.co.in/citations?user=clThLIwAAAAJ&hl=en) / [Email](poornash_2101cs01@iitp.ac.in)
+[GitHub](https://github.com/justaguyalways) / [LinkedIn](https://www.linkedin.com/in/a-s-poornash-4973a2240/) / [Google Scholar](https://scholar.google.co.in/citations?user=clThLIwAAAAJ&hl=en) / [Email](mailto:poornash_2101cs01@iitp.ac.in)
 
 _Welcome to my homepage._     
 
