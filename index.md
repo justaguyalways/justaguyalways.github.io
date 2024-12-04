@@ -21,7 +21,7 @@ I am fortunate to have [Prof. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) 
 
 Some relatively non-academic things about me - 
 * I am an avid puzzle solver and pursue [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) in a competitive manner. ([My WCA profile link](https://www.worldcubeassociation.org/persons/2017ANAN08))
-* I am also volunteer in the National Service Scheme (NSS) at IIT Patna, participating in cleanliness drives and teaching Maths at a nearby public primary school.
+* I am also a volunteer in the National Service Scheme (NSS) community at IIT Patna, participating in cleanliness drives and teaching Mathematics at a nearby public primary school.
 * Quite a philosopher myself. Speak 4 languages. 
 
 Please read my [CV](/cv) or visit [Scholar profile](https://scholar.google.co.in/citations?user=clThLIwAAAAJ&hl=en) to learn more about my work and interests.       
