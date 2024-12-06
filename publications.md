@@ -5,15 +5,51 @@ permalink: /publications
 order: 1
 ---
 
-* **ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos.** *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Sriparna Saha, Pushpak Bhattacharyya. In [Findings of the Annual Conference of the Association for Computational Linguistics (ACL), 2024](https://aclanthology.org/2024.findings-acl.663)
+### Preprints
 
-* **Seeing Beyond Words: Multimodal Aspect-Level Complaint Detection in Ecommerce Videos.** *A.S. Poornash*<sup>\*</sup>, Rishikesh Devanathan<sup>\*</sup>, Apoorva Singh<sup>\*</sup>, Sriparna Saha. Accepted at [ACM Multimedia (ACM ’MM), 2024](https://openreview.net/forum?id=RjZeXdKwRE)
+* **A Stochastic Optimization Framework for Private and Fair Learning from Decentralized Data.**  
+  Devansh Gupta, *A.S. Poornash*, Andrew Lowy, Meisam Razaviyayn.  
+  [Under Review].  
+  [Paper](http://arxiv.org/abs/2411.07889) | [Code](https://github.com/justaguyalways/Stochastic-Federated-Differentially-Private-and-Fair-Learning)
 
-* **APTSumm at BioLaySumm Task 1: Biomedical Breakdown, Improving Readability by Relevancy Based Selection.** *A.S. Poornash*, Atharva Deshmukh, Archit Sharma, Sriparna Saha. In [BioNLP Workshop of the Association for Computational Linguistics (ACL), 2023](https://aclanthology.org/2023.bionlp-1.61)
-    * Our team APTSumm secured 2nd place in the readability metric on the Leaderboard of BioLaySum Shared Task, BioNLP Workshop, ACL 2023. [Shared Task Page](https://biolaysumm.org/2023/)
+---
 
-* **ToxVI: A Multimodal LLM-based Framework for Generating Intervention in Toxic Code-Mixed Videos.** *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Sriparna Saha, Kitsuchart Pasupa. Accepted at [ACM International Conference on Information and Knowledge Management (CIKM), 2024](https://cikm2024.org/accepted-papers/), [Preprint Link](https://www.researchgate.net/publication/384450159_ToxVI_a_Multimodal_LLM-based_Framework_for_Generating_Intervention_in_Toxic_Code-Mixed_Videos)
+### Conference Proceedings
 
-* **HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language.** *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Shaubhik Bhattacharya, Salisa Phosit, S. Kongsamlit, Sriparna Saha, Kitsuchart Pasupa. In [IEEE Transactions in Computational Social Systems (IEEE TCSS), 2024](https://ieeexplore.ieee.org/document/10494986)
+* **ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos.**  
+  *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Sriparna Saha, Pushpak Bhattacharyya.  
+  In [Findings of the Annual Conference of the Association for Computational Linguistics (ACL)](https://2024.aclweb.org/), 2024.  
+  [Paper](https://aclanthology.org/2024.findings-acl.663) | [Code](https://github.com/justaguyalways/ToxVidLM_ACL_2024/tree/main)
+
+* **Seeing Beyond Words: Multimodal Aspect-Level Complaint Detection in Ecommerce Videos.**  
+  *A.S. Poornash*<sup>\*</sup>, Rishikesh Devanathan<sup>\*</sup>, Apoorva Singh<sup>\*</sup>, Sriparna Saha.  
+  Accepted at [ACM Multimedia (ACM MM)](https://2024.acmmm.org/), 2024.  
+  [Paper](https://dl.acm.org/doi/10.1145/3664647.3681595) | [Code](https://github.com/justaguyalways/MAACA-ACM-MM-24)
+
+* **ToxVI: A Multimodal LLM-based Framework for Generating Intervention in Toxic Code-Mixed Videos.**  
+  *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Sriparna Saha, Kitsuchart Pasupa.  
+  Accepted at [ACM International Conference on Information and Knowledge Management (CIKM)](https://cikm2024.org/), 2024.  
+  [Paper](https://dl.acm.org/doi/10.1145/3627673.3680004) | [Code](https://github.com/justaguyalways/Code-Mixed-Hinglish-Intervention-CIKM-2024/)
+
+---
+
+### Workshop Proceedings
+
+* **APTSumm at BioLaySumm Task 1: Biomedical Breakdown, Improving Readability by Relevancy Based Selection.**  
+  *A.S. Poornash*, Atharva Deshmukh, Archit Sharma, Sriparna Saha.  
+  In [BioNLP Workshop of the Association for Computational Linguistics (ACL)](https://aclweb.org/aclwiki/BioNLP_2023), 2023.  
+  Our team APTSumm secured 2nd place in the readability metric on the leaderboard of the BioLaySum Shared Task.  
+  [Paper](https://aclanthology.org/2023.bionlp-1.61) | [Shared Task Page](https://biolaysumm.org/2023/) | [Code](https://github.com/justaguyalways/BioLaySumm)
+
+---
+
+### Journal Articles
+
+* **HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language.**  
+  *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Shaubhik Bhattacharyya, Salisa Phosit, S. Kongsamlit, Sriparna Saha, Kitsuchart Pasupa.  
+  Published in [IEEE Transactions on Computational Social Systems (IEEE TCSS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650), 2024.  
+  [Paper](https://ieeexplore.ieee.org/document/10494986) | [Code](https://github.com/dsmlr/HateThaiSent)
+
+---
 
 <sup>\*</sup> Indicates equal contribution.
