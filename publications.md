@@ -18,12 +18,12 @@ order: 1
 
 * **ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos.**  
   *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Sriparna Saha, Pushpak Bhattacharyya.  
-  [ACL Findings '24 - Findings of the Annual Conference of the Association for Computational Linguistics](https://2024.aclweb.org/), 2024 
+  [ACL Findings '24 - Findings of the Annual Conference of the Association for Computational Linguistics](https://2024.aclweb.org/), 2024 <br>
   [Paper](https://aclanthology.org/2024.findings-acl.663) | [Code](https://github.com/justaguyalways/ToxVidLM_ACL_2024/tree/main)
 
 * **Seeing Beyond Words: Multimodal Aspect-Level Complaint Detection in Ecommerce Videos.**  
   *A.S. Poornash*<sup>\*</sup>, Rishikesh Devanathan<sup>\*</sup>, Apoorva Singh<sup>\*</sup>, Sriparna Saha.  
-  [ACM MM '24 - ACM Multimedia](https://2024.acmmm.org/), 2024 (_Oral Acceptance_)
+  [ACM MM '24 - ACM Multimedia](https://2024.acmmm.org/), 2024 (_Oral Acceptance_) <br>
   [Paper](https://dl.acm.org/doi/10.1145/3664647.3681595) | [Code](https://github.com/justaguyalways/MAACA-ACM-MM-24)
 
 * **ToxVI: A Multimodal LLM-based Framework for Generating Intervention in Toxic Code-Mixed Videos.**  
