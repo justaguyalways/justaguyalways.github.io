@@ -9,7 +9,7 @@ order: 1
 
 * **A Stochastic Optimization Framework for Private and Fair Learning from Decentralized Data.**  
   Devansh Gupta, *A.S. Poornash*, Andrew Lowy, Meisam Razaviyayn.  
-  [Under Review]
+  [Under Review] <br>
   [Paper](http://arxiv.org/abs/2411.07889) | [Code](https://github.com/justaguyalways/Stochastic-Federated-Differentially-Private-and-Fair-Learning)
 
 ---
