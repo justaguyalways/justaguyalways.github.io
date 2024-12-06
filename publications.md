@@ -23,12 +23,12 @@ order: 1
 
 * **Seeing Beyond Words: Multimodal Aspect-Level Complaint Detection in Ecommerce Videos.**  
   *A.S. Poornash*<sup>\*</sup>, Rishikesh Devanathan<sup>\*</sup>, Apoorva Singh<sup>\*</sup>, Sriparna Saha.  
-  [ACM MM '24- ACM Multimedia](https://2024.acmmm.org/), 2024 - **Oral Presentation** 
+  [ACM MM '24 - ACM Multimedia](https://2024.acmmm.org/), 2024 (_Oral Acceptance_)
   [Paper](https://dl.acm.org/doi/10.1145/3664647.3681595) | [Code](https://github.com/justaguyalways/MAACA-ACM-MM-24)
 
 * **ToxVI: A Multimodal LLM-based Framework for Generating Intervention in Toxic Code-Mixed Videos.**  
   *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Sriparna Saha, Kitsuchart Pasupa.  
-  [CIKM '24- ACM International Conference on Information and Knowledge Management](https://cikm2024.org/), 2024.  
+  [CIKM '24 - ACM International Conference on Information and Knowledge Management](https://cikm2024.org/), 2024.  
   [Paper](https://dl.acm.org/doi/10.1145/3627673.3680004) | [Code](https://github.com/justaguyalways/Code-Mixed-Hinglish-Intervention-CIKM-2024/)
 
 ---
