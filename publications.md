@@ -37,8 +37,8 @@ order: 1
 
 * **APTSumm at BioLaySumm Task 1: Biomedical Breakdown, Improving Readability by Relevancy Based Selection.**  
   *A.S. Poornash*, Atharva Deshmukh, Archit Sharma, Sriparna Saha.  
-  In [BioNLP Workshop of the Association for Computational Linguistics (ACL)](https://aclweb.org/aclwiki/BioNLP_2023), 2023.  
-  Our team APTSumm secured 2nd place in the readability metric on the leaderboard of the BioLaySum Shared Task.  
+  [BioNLP Workshop of the Association for Computational Linguistics (ACL)](https://aclweb.org/aclwiki/BioNLP_2023), 2023.  
+  Our team APTSumm secured 2nd place in the readability metrics on the leaderboard of the BioLaySum Shared Task.  
   [Paper](https://aclanthology.org/2023.bionlp-1.61) | [Shared Task Page](https://biolaysumm.org/2023/)
 ---
 
