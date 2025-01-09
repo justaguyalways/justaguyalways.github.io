@@ -42,21 +42,15 @@ My team, **_DBkaScam_**, placed **6th** among **20,000+** teams in the prestigio
 **Amazon ML Challenge 2024**!  
 Check out our [**winning solution**](https://www.canva.com/design/DAGRau30tRI/06v7kPdBwb99GDjsiv1fcg/edit?utm_content=DAGRau30tRI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
----
-
 ### July 2024
 Paper titled  
 **"Seeing Beyond Words: Multimodal Aspect-Level Complaint Detection in Ecommerce Videos"**  
 accepted at **ACM MM 2024** as an **Oral Presentation** (<3% acceptance rate).
 
----
-
 ### June 2024
 - Paper titled  
   **"ToxVI: A Multimodal LLM-based Framework for Generating Intervention in Toxic Code-Mixed Videos"**  
   accepted at **CIKM 2024**. This extends our earlier ACL work to further mitigate the spread of toxic posts on social media.
-
----
 
 ### May 2024
 - Elated to share that I started my **internship** at the **ODDS Research group** at **USC** as one of the **15 IUSSTF-Viterbi Research Scholars** selected from across India. Looking forward to a great summer in Los Angeles!
@@ -65,16 +59,12 @@ accepted at **ACM MM 2024** as an **Oral Presentation** (<3% acceptance rate).
   **"ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos"**  
   accepted at the **Findings of ACL 2024**. See you in **Thailand**!
 
----
-
 ### November 2023
 Paper titled  
 **"HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language"**  
 accepted at **IEEE Transactions on Computational Social Systems (IEEE TCSS)**.  
-This work was done as part of my **research internship** at  
+This work was done as part of my research internship at  
 [**KMITL, Thailand**](https://www.kmitl.ac.th/).
-
----
 
 ### May 2023
 Paper titled  
