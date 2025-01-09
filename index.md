@@ -46,7 +46,7 @@ was accepted at the **PPAI-Workshop @ AAAI-2025**! This work was a result of my 
   "ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos" accepted at the **Findings of ACL 2024**. See you in **Thailand**!
 
 **_November 2024_**: Paper titled  
-"HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language" accepted at **IEEE Transactions on Computational Social Systems (IEEE TCSS)**. This work was done as part of my research internship at [**KMITL, Thailand**](https://www.kmitl.ac.th/).
+"HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language" accepted at **IEEE Transactions on Computational Social Systems (IEEE TCSS)**. This work was done as part of my research internship at [KMITL, Thailand](https://www.kmitl.ac.th/).
 
 **_May 2023_**: Paper titled  
 "APTSumm at BioLaySumm Task 1: Biomedical Breakdown, Improving Readability by Relevancy Based Selection"
