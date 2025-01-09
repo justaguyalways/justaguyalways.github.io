@@ -35,8 +35,6 @@ An **initial version** of my paper titled
 was accepted at the **PPAI-Workshop @ AAAI-2025**!  
 This work was part of my **research fellowship** at the **University of Southern California**.
 
----
-
 ### October 2024
 My team, **_DBkaScam_**, placed **6th** among **20,000+** teams in the prestigious  
 **Amazon ML Challenge 2024**!  
