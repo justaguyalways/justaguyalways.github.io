@@ -29,7 +29,7 @@ Please read my [CV](/cv) or visit [Scholar profile](https://scholar.google.co.in
 ## News
 <hr style="height:2px; border:none; color:#000; background-color:#000;" />
 
-**_January 2024_**: Started my internship as an Applied Scientist Intern at the **Amazon Global Store Tech** team in Noida, India. Curious to explore the industrial side of ML!
+**_January 2025_**: Started my internship as an Applied Scientist Intern at the **Amazon Global Store Tech** team in Noida, India. Curious to explore the industrial side of ML!
 
 **_December 2024_**: An initial version of my paper titled "A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data" 
 was accepted at the **PPAI-Workshop @ AAAI-2025**! This work was a result of my research fellowship at USC.
