@@ -13,7 +13,7 @@ order: 5
 
 _Welcome to my homepage._
 
-Hello! I’m Poornash Anandan Sangeetha (often going by A S Poornash), a final-year B.Tech student in the Department of Computer Science and Engineering at the [Indian Institute of Technology Patna](https://www.iitp.ac.in/).
+Hi! I’m Poornash Anandan Sangeetha (often going by A S Poornash), a final-year B.Tech student in the Department of Computer Science and Engineering at the [Indian Institute of Technology Patna](https://www.iitp.ac.in/).
 
 Currently, I serve as an Applied Scientist Intern at Amazon India. In parallel, I work as a Researcher at the [University of Southern California (USC)](https://www.usc.edu) in the [ODDS Lab](https://sites.usc.edu/razaviyayn/group/) led by [Prof. Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/). This role grew out of the prestigious _Indo-U.S. Science and Technology Forum (IUSSTF)-Viterbi Summer Research Program_ at the [USC Viterbi School of Engineering](https://viterbischool.usc.edu), where I focused on Trustworthy Machine Learning. I am fortunate to have [Prof. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) as my thesis advisor at IIT Patna, where I’m working on research problems in NLP and multimodal systems. I have also collaborated with [Prof. Kitsuchart Pasupa](https://www.it.kmitl.ac.th/~kitsuchart/) (King Mongkut’s Institute of Technology Ladkrabang, Thailand) on research related to low-resource languages like Thai. You can find the papers corresponding to these collaborations on the [Publications page](/publications).
 
