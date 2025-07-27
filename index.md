@@ -21,7 +21,6 @@ My research interests span natural language processing, multimodal learning, and
 
 Some relatively non-academic things about me - 
 * I am an avid puzzle solver and pursue [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) in a competitive manner. ([My WCA profile link](https://www.worldcubeassociation.org/persons/2017ANAN08))
-* I am also a volunteer in the National Service Scheme (NSS) community at IIT Patna, participating in cleanliness drives and teaching Mathematics at a nearby public primary school.
 * Quite a philosopher myself. Speak 4 languages. 
 
 Please read my [CV](/cv) or visit [Scholar profile](https://scholar.google.co.in/citations?user=clThLIwAAAAJ&hl=en) to learn more about my work and interests.       
