@@ -19,7 +19,7 @@ I served as a Machine Learning Intern at [Amazon Applied Science](https://www.am
 
 At [IIT Patna](https://www.iitp.ac.in/), I completed my undergraduate thesis under [Prof. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) and worked on research problems in NLP and multimodal learning (including projects accepted at conferences and journals like ACL, ACM Multimedia, AAAI, CIKM and, IEEE TCSS). I also collaborated with [Prof. Kitsuchart Pasupa](https://www.it.kmitl.ac.th/~kitsuchart/) (KMITL, Thailand) on hate speech detection for low-resource languages like Thai.
 
-My research interests span natural language processing, multimodal learning, privacy-preserving and fair ML, and trustworthy systems. I have worked on advancing techniques for toxicity detection (especially in code-mixed and multilingual videos), learning in decentralized or low-resource environments, and designing practical interventions for real-world multimodal systems.
+My research interests span natural language processing, multimodal learning, and machine learning, with a focus on building trustworthy and fair systems. I have worked on advancing methods for toxicity detection, addressing challenges in multilingual and low-resource language settings, and exploring effective multimodal alignment methods. My work includes contributions to privacy-preserving and fair learning in decentralized environments, as well as improving readability and relevance in summarization systems. Additionally, I am interested in the intersection of vision and language, particularly in tasks requiring robust cross-modal alignment and reasoning.
 
 Further details and papers are available on my [Publications page](/publications).
 
