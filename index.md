@@ -9,15 +9,21 @@ order: 5
 
 ![my photo](images/profile_pic.jpeg){:height="250px"}
 
-[GitHub](https://github.com/justaguyalways) / [LinkedIn](https://www.linkedin.com/in/a-s-poornash-4973a2240/) / [Google Scholar](https://scholar.google.co.in/citations?user=clThLIwAAAAJ&hl=en) / [Email](mailto:poornash_2101cs01@iitp.ac.in)
+[GitHub](https://github.com/justaguyalways) / [LinkedIn](https://www.linkedin.com/in/a-s-poornash/) / [Google Scholar](https://scholar.google.co.in/citations?user=clThLIwAAAAJ&hl=en) / [Email](mailto:poornash_2101cs01@iitp.ac.in)
 
 _Welcome to my homepage._
 
-Hello! I’m Poornash Anandan Sangeetha (often going by A S Poornash), a final-year B.Tech student in the Department of Computer Science and Engineering at the [Indian Institute of Technology Patna](https://www.iitp.ac.in/).
+Hello! I’m Poornash Anandan Sangeetha (often going by A S Poornash), an incoming M.S. student in Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA (2025-2027). I recently graduated as the Institute Topper (President’s Gold Medalist) in Computer Science and Engineering from the [Indian Institute of Technology Patna (IIT Patna)](https://www.iitp.ac.in/), with a GPA of 9.71/10.
 
-Currently, I serve as an Applied Scientist Intern at Amazon India. In parallel, I work as a Researcher at the [University of Southern California (USC)](https://www.usc.edu) in the [ODDS Lab](https://sites.usc.edu/razaviyayn/group/) led by [Prof. Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/). This role grew out of the prestigious _Indo-U.S. Science and Technology Forum (IUSSTF)-Viterbi Summer Research Program_ at the [USC Viterbi School of Engineering](https://viterbischool.usc.edu), where I focused on Trustworthy Machine Learning. I am fortunate to have [Prof. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) as my thesis advisor at IIT Patna, where I’m working on research problems in NLP and multimodal systems. I have also collaborated with [Prof. Kitsuchart Pasupa](https://www.it.kmitl.ac.th/~kitsuchart/) (King Mongkut’s Institute of Technology Ladkrabang, Thailand) on research related to low-resource languages like Thai. You can find the papers corresponding to these collaborations on the [Publications page](/publications).
+I served as a Machine Learning Intern at [Amazon Applied Science](https://www.amazon.science/) (Jan-Jul 2025), where I developed automated workflows for vision-language product matching, achieving over 90% reduction in manual review time and significant gains in classification metrics. Before this, I worked as a researcher in the [ODDS Research Group](https://sites.usc.edu/razaviyayn/group/) at the [University of Southern California (USC)](https://www.usc.edu/), advised by [Prof. Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/), focusing on private, fair, and federated machine learning, as part of the competitive [IUSSTF-Viterbi India Scholar program](https://viterbischool.usc.edu/outreach/iusstf/).
 
-My research interests span natural language processing, multimodal learning, and machine learning, with a focus on building trustworthy and fair systems. I have worked on advancing methods for toxicity detection, addressing challenges in multilingual and low-resource language settings, and exploring effective multimodal alignment methods. My work includes contributions to privacy-preserving and fair learning in decentralized environments, as well as improving readability and relevance in summarization systems. Additionally, I am interested in the intersection of vision and language, particularly in tasks requiring robust cross-modal alignment and reasoning.
+At [IIT Patna](https://www.iitp.ac.in/), I completed my undergraduate thesis under [Prof. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) and worked on research problems in NLP and multimodal learning (including projects accepted at conferences and journals like ACL, ACM Multimedia, AAAI, CIKM and, IEEE TCSS). I also collaborated with [Prof. Kitsuchart Pasupa](https://www.it.kmitl.ac.th/~kitsuchart/) (KMITL, Thailand) on hate speech detection for low-resource languages like Thai.
+
+My research interests span natural language processing, multimodal learning, privacy-preserving and fair ML, and trustworthy systems. I have worked on advancing techniques for toxicity detection (especially in code-mixed and multilingual videos), learning in decentralized or low-resource environments, and designing practical interventions for real-world multimodal systems.
+
+Further details and papers are available on my [Publications page](/publications).
+
+---
 
 Some relatively non-academic things about me - 
 * I am an avid puzzle solver and pursue [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) in a competitive manner. ([My WCA profile link](https://www.worldcubeassociation.org/persons/2017ANAN08))
