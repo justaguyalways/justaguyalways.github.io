@@ -23,8 +23,6 @@ My research interests span natural language processing, multimodal learning, and
 
 Further details and papers are available on my [Publications page](/publications).
 
----
-
 Some relatively non-academic things about me - 
 * I am an avid puzzle solver and pursue [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) in a competitive manner. ([My WCA profile link](https://www.worldcubeassociation.org/persons/2017ANAN08))
 * Quite a philosopher myself. Speak 4 languages. 
