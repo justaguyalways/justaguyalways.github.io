@@ -13,7 +13,7 @@ order: 5
 
 _Welcome to my homepage._
 
-Hello! I’m Poornash Anandan Sangeetha (often going by A S Poornash), an M.S. student in Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA (2025-2027). I will also be working as an ML Intern at Tiktok's Reccomendation algorithm team during summer 2026 in the Bay Area.
+Hello! I’m Poornash Anandan Sangeetha (often going by A S Poornash), an M.S. student in Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA (2025-2027). I will also be working as an ML Intern at Tiktok's Reccomendation algorithm team during the summer of 2026 in the Bay Area.
 
 I also graduated as the Institute Topper (Presiden of India's Gold Medalist) in Computer Science and Engineering from the [Indian Institute of Technology Patna (IIT Patna)](https://www.iitp.ac.in/), with a GPA of 9.71/10.
 
