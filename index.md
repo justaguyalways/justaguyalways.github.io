@@ -15,7 +15,7 @@ _Welcome to my homepage._
 
 Hello! I’m Poornash Anandan Sangeetha (often going by A S Poornash), an M.S. student in Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA (2025-2027). I will also be working as an ML Intern at Tiktok's Reccomendation algorithm team during the summer of 2026 in the Bay Area.
 
-I also graduated as the Institute Topper (Presiden of India's Gold Medalist) in Computer Science and Engineering from the [Indian Institute of Technology Patna (IIT Patna)](https://www.iitp.ac.in/), with a GPA of 9.71/10.
+I also graduated as the Institute Topper (President of India's Gold Medalist) in Computer Science and Engineering from the [Indian Institute of Technology Patna (IIT Patna)](https://www.iitp.ac.in/), with a GPA of 9.71/10.
 
 I served as a Machine Learning Intern at [Amazon Applied Science](https://www.amazon.science/) (Jan-Jul 2025), where I developed automated workflows for vision-language product matching, achieving over 90% reduction in manual review time and significant gains in classification metrics. Before this, I worked as a researcher in the [ODDS Research Group](https://sites.usc.edu/razaviyayn/group/) at the [University of Southern California (USC)](https://www.usc.edu/), advised by [Prof. Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/), focusing on private, fair, and federated machine learning, as part of the competitive [IUSSTF-Viterbi India Scholar program](https://iusstf.org/iusstf-viterbi-program).
 
