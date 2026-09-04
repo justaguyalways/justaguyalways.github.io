@@ -26,6 +26,11 @@ order: 1
   [ACM MM '24 - ACM Multimedia](https://2024.acmmm.org/), 2024 (_Oral Acceptance_) <br>
   [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681595)] | [[Code](https://github.com/justaguyalways/MAACA-ACM-MM-24)]
 
+* **Small Models, Big Picture! A Language Model Augmentation for Enhanced Reader-Aware Summarization.**  
+  Raghvendra Kumar, *A.S. Poornash*, Sriparna Saha.  
+  [ECIR '26 - European Conference on Information Retrieval](https://ecir2026.eu/), 2026 <br>
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-21289-4_13)]
+
 * **ToxVI: A Multimodal LLM-based Framework for Generating Intervention in Toxic Code-Mixed Videos.**  
   *A.S. Poornash*<sup>\*</sup>, Krishanu Maity<sup>\*</sup>, Sriparna Saha, Kitsuchart Pasupa.  
   [CIKM '24 - ACM International Conference on Information and Knowledge Management](https://cikm2024.org/), 2024.  
